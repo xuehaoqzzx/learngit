@@ -14,3 +14,5 @@ two create file
 =======
 git merge --no-ff -m 'merge with no-ff' dev
 >>>>>>> dev1
+
+修复bug
